@@ -1,0 +1,153 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) { 
+    .hedaer-tittle {
+        max-width: 100%;
+        padding-top: 100px;
+    }
+    .hedaer-tittle h2 {
+        font-size:32px;
+    }
+    .hedaer-tittle p{
+        font-size: 18px;
+       
+    }
+    .hedaer-tittle a{
+        font-size: 14px;
+    
+    }
+    .heder-text h2{
+        color: white;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .about-me-btn a{
+        display: inline-block;
+        background-color: #6AE0AD;
+        font-size: 18px;
+        color: #001831;
+        border-radius: 4px;
+        line-height: 1.5rem;
+        padding: 14px 30px;
+        font-weight: 600;
+        transition: 0.3s;
+        margin-top: 15px;
+        margin-bottom: 40px;
+    
+    }
+    .clients-tittle h2{
+        color: #0f0f0f;
+        font-weight: 700;
+        font-size: 36px;
+        text-align: center;
+        margin-bottom: 14px;
+        line-height: 1.5;
+    }
+    .clients-tittle p{
+        line-height: 1.85;
+        color: #0f0f0f;
+        font-size: 17px;
+        font-weight: 400;
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 0 0px;
+    }
+    .contact-us-text{
+        padding-top: 0px;
+    }
+    .font-end{
+        margin-left: 0px;
+     
+    }
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .hedaer-tittle {
+        max-width: 100%;
+        padding-top: 100px;
+    }
+    .hedaer-tittle h2 {
+        font-size:35px;
+    }
+    .about-me-btn a{
+        display: inline-block;
+        background-color: #6AE0AD;
+        font-size: 18px;
+        color: #001831;
+        border-radius: 4px;
+        line-height: 1.5rem;
+        padding: 14px 30px;
+        font-weight: 600;
+        transition: 0.3s;
+        margin-top: 15px;
+        margin-bottom: 40px;
+    
+    }
+    .clients-tittle p{
+        line-height: 1.85;
+        color: #0f0f0f;
+        font-size: 17px;
+        font-weight: 400;
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 0 0px;
+    }
+    .font-end{
+        margin-left: 0px;
+     
+    }
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .hedaer-tittle {
+        max-width: 100%;
+        padding-top: 100px;
+    }
+    .hedaer-tittle h2 {
+        font-size:45px;
+    }
+    .about-me-btn a{
+        display: inline-block;
+        background-color: #6AE0AD;
+        font-size: 18px;
+        color: #001831;
+        border-radius: 4px;
+        line-height: 1.5rem;
+        padding: 14px 30px;
+        font-weight: 600;
+        transition: 0.3s;
+        margin-top: 15px;
+        margin-bottom: 40px;
+    
+    }
+    .font-end{
+        margin-left: 0px;
+     
+    }
+    .clients-tittle p{
+        line-height: 1.85;
+        color: #0f0f0f;
+        font-size: 17px;
+        font-weight: 400;
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 0 0px;
+    }
+
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+
+}
